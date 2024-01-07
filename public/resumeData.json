@@ -1,14 +1,20 @@
 {
   "main": {
     "name":"Pareesh Madan",
-    "description":"Passionate Software Engineer/Computer Science Student at University of Guelph",
-    "image":"profilepic.jpg",
-    "bio" : "I have always been fascinated with the boundless and infinite capabilities of computers which motivated me to pursue a future in Computer Science. This desire was strengthened ever since the joy I received after succeeding in writing recursive function calls for a grade 11 minesweeper game.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "description":"Hard-Working Software Engineer and Computer Science Student at the University of Guelph",
+    "image":"picturewebsite.jpg",
+    "bio" : "I have always been fascinated with the boundless and infinite capabilities of computers which motivated me to pursue a future in Computer Science. Currently pursing internship oppurtunities for Summer 2024.",
+    "contactmessage":"Feel free to email me at pareeshmadan10@gmail.com or call me at 519-362-1324",
     "email": "pareeshmadan10@gmail.com",
     "phone": "519-362-1324",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "github":"https://github.com/PareeshMadan",
+    "project":"https://github.com/PareeshMadan/react-nice-resume",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
@@ -40,27 +46,27 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"University of Guelph",
-        "degree":"Bachelor of Computer Science, Business Option (Co-op) ",
-        "graduate":"2028",
+        "degree":"Bachelor of Computer Science, Business Data Analytics Minor (Co-op)",
+        "graduated":"Class of 2028",
         "description":"Relevant Courses: Discrete Structures, Intermediate Programming, Linear Algebra"
       }
     ],
     "work":[
       {
         "company":"Dominos Pizza",
-        "title":"Insider ",
+        "title":"Customer Service Representative ",
         "years":"July 2021 - August 2022",
         "description":"Collaborated with coworkers, Assisted customers with orders, Carried out cashier transactions"
       },
       {
-        "company":"Guelph Lake Camp",
-        "title":"Naturalist in Training Volunteer ",
-        "years":"July 2019",
-        "description":"Supervised children during tasks, Organized activities for the children's enjoyment, Located kids lost items, Performed sanitation duties"
+        "company":"Hindu Society of Guelph",
+        "title":"Volunteer ",
+        "years":"January 2016 – April 2021",
+        "description":"Conducted activities for youth groups, Participated in the organization of larger events"
       }
     ],
     "skills":[
@@ -85,76 +91,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Pathfinding Visualiser",
+        "category":"",
+        "image":"path.png",
+        "url":"https://github.com/PareeshMadan/PathfindingVisualizer"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Zelda-Reimagined",
+        "category":"",
+        "image":"zeldavid.gif",
+        "url":"https://github.com/PareeshMadan/Zelda-Reimagined"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Penguin-Climb",
+        "category":"",
+        "image":"pengvid.gif",
+        "url":"https://github.com/PareeshMadan/Penguin-Climb"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Pokemon-Team-Builder",
+        "category":"",
+        "image":"pkmn.png",
+        "url":"https://pkmnteambuilder.web.app/"
       }
     ]
   }

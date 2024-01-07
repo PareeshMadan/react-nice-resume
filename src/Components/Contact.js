@@ -15,7 +15,7 @@ class Contact extends Component {
 
     return (
       <section id="contact">
-        <Fade bottom duration={1000}>
+        <Slide bottom duration={1000}>
           <div className="row section-head">
             <div className="two columns header-col">
               <h1>
@@ -24,12 +24,12 @@ class Contact extends Component {
             </div>
 
             <div className="ten columns">
-              <p className="lead">{message}</p>
+              <p className="white">{message}</p>
             </div>
           </div>
-        </Fade>
+        </Slide>
 
-        <div className="row">
+        {/* <div className="row">
           <Slide left duration={1000}>
             <div className="eight columns">
               <form action="" method="post" id="contactForm" name="contactForm">
@@ -147,7 +147,7 @@ class Contact extends Component {
               </div>
             </aside>
           </Slide>
-        </div>
+        </div> */}
       </section>
     );
   }
