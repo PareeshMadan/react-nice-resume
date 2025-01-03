@@ -16,7 +16,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"PMResumeS2025.pdf",
+    "resumedownload":"PMResumeSummer2025.pdf",
     "social":[
       {
         "name":"facebook",
@@ -52,21 +52,16 @@
         "school":"University of Guelph",
         "degree":"Bachelor of Computer Science, Business Data Analytics Minor (Co-op)",
         "graduated":"Class of 2028",
-        "description":"Relevant Courses: Discrete Structures, Intermediate Programming, Linear Algebra"
+        "description":"Relevant Courses: Object Oriented Programming, Data Structures, Discrete Structures",
+        "description2:": "91% Cumulative GPA, Academic Scholarship"
       }
     ],
     "work":[
       {
-        "company":"Dominos Pizza",
-        "title":"Customer Service Representative ",
-        "years":"July 2021 - August 2022",
-        "description":"Collaborated with coworkers, Assisted customers with orders, Carried out cashier transactions"
-      },
-      {
-        "company":"Hindu Society of Guelph",
-        "title":"Volunteer ",
-        "years":"January 2016 – April 2021",
-        "description":"Conducted activities for youth groups, Participated in the organization of larger events"
+        "company":"Bio-imaging Research Solutions Inc.",
+        "title":"Software Developer Intern",
+        "years":"May 2024 - August 2024",
+        "description":"Developed a prototype neural network using TensorFlow for image classification to detect diseases in cow lymph nodes, trained on a dataset of over 3,500 annotated DICOM-formatted X-ray images. Designed and implemented a Python-based image format converter program, streamlining the preprocessing of DICOM images for training the neural network."
       }
     ],
     "skills":[
