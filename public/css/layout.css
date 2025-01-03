@@ -267,6 +267,12 @@ ul#nav li.current a { color: #fe6928; }
    margin-bottom: 18px;
    margin-top: 9px;
 }
+
+#resume .description {
+   margin-top: 0;
+   margin-bottom: 5px;
+}
+
 #resume .info span {
    margin-right: 5px;
    margin-left: 5px;

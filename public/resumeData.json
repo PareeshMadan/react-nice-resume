@@ -53,7 +53,7 @@
         "degree":"Bachelor of Computer Science, Business Data Analytics Minor (Co-op)",
         "graduated":"Class of 2028",
         "description":"Relevant Courses: Object Oriented Programming, Data Structures, Discrete Structures",
-        "description2:": "91% Cumulative GPA, Academic Scholarship"
+        "description2": "91% Cumulative GPA, Academic Scholarship."
       }
     ],
     "work":[
@@ -61,7 +61,8 @@
         "company":"Bio-imaging Research Solutions Inc.",
         "title":"Software Developer Intern",
         "years":"May 2024 - August 2024",
-        "description":"Developed a prototype neural network using TensorFlow for image classification to detect diseases in cow lymph nodes, trained on a dataset of over 3,500 annotated DICOM-formatted X-ray images. Designed and implemented a Python-based image format converter program, streamlining the preprocessing of DICOM images for training the neural network."
+        "description":"Developed a prototype neural network using TensorFlow for image classification to detect diseases in cow lymph nodes, trained on a dataset of over 3,500 annotated DICOM-formatted X-ray images.",
+        "description2":"Designed and implemented a Python-based image format converter program, streamlining the preprocessing of DICOM images for training the neural network."
       }
     ],
     "skills":[
