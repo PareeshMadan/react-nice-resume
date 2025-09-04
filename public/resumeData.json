@@ -58,11 +58,11 @@
     ],
     "work":[
       {
-        "company":"CIBC",
-        "title":"Software Engineer Co-op",
-        "years":"May 2025 - Present",
-        "description":"Working closely with internal and external stakeholders to drive incident resolution, ensure compliance, and optimize end to end operational processes.",
-        "description2":"Contributing to system and network design discussions, infrastructure security audits, and automation initiatives to improve platform resilience and agility."
+        "company": "CIBC",
+        "title": "Software Engineer Co-op",
+        "years": "May 2025 - August 2025",
+        "description": "During Summer 2025, I completed a co-op work term at CIBC as a Software Engineer Co-op in Toronto, Ontario. My role focused on developing internal tools for the Digital Banking team, collaborating with designers and developers to deliver solutions that improved operational efficiency.",
+        "description2": "CIBC (Canadian Imperial Bank of Commerce) is one of Canada’s largest banks, known for its innovative digital banking solutions and commitment to technology. My goals for this term included improving my React.js skills, learning about cloud deployment (AWS), and understanding enterprise-level software development. I successfully improved my React.js skills and learned the basics of AWS deployment, though I was less involved in backend development than I hoped. I worked on a web-based dashboard for internal analytics, requiring knowledge of JavaScript, React, and REST APIs, which I learned both in class and on the job. This work term strengthened my technical and professional skills and gave me insight into large-scale software projects in the financial sector. Special thanks to my supervisor and the Digital Banking team for their support and guidance."
       },
       {
         "company":"Bio-imaging Research Solutions Inc.",
