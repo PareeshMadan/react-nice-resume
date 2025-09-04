@@ -58,11 +58,12 @@
     ],
     "work":[
       {
-        "company":"CIBC",
-        "title":"Software Engineer Co-op",
-        "years":"May 2025 - Present",
-        "description":"Working closely with internal and external stakeholders to drive incident resolution, ensure compliance, and optimize end to end operational processes.",
-        "description2":"Contributing to system and network design discussions, infrastructure security audits, and automation initiatives to improve platform resilience and agility."
+        "introduction": "During Summer 2025, I worked as a Software Engineer Co-op at CIBC in Toronto. My role involved collaborating with internal teams to drive incident resolution, ensure compliance, and optimize operational processes. This website reflects my work term experience, the skills I developed, and the lessons I will carry forward into future co-op terms.",
+        "employer": "CIBC (Canadian Imperial Bank of Commerce) is one of Canada’s Big Five banks, headquartered in Toronto with over 45,000 employees worldwide. It offers a wide range of financial services including retail banking, business banking, wealth management, and capital markets. I worked within the Technology and Operations division, contributing to software engineering initiatives that directly support CIBC’s digital banking infrastructure.",
+        "goals": "My goals for this work term included: (1) Developing stronger skills in automated testing and CI/CD integration, (2) Gaining experience with large-scale system design and infrastructure, (3) Improving communication and collaboration skills in a professional environment. I successfully contributed automated Python test scripts and participated in system/network design discussions. While I met most of my goals, I would like to deepen my experience with containerization and cloud technologies in future terms.",
+        "job": "As a Software Engineer Co-op, I worked on building and maintaining automated testing frameworks using Python (pytest/unittest), integrated them into Jenkins pipelines, and contributed to discussions around infrastructure security and resilience. I also assisted with incident resolution and process optimization, which gave me exposure to both technical problem-solving and cross-team communication.",
+        "conclusion": "Overall, this work term at CIBC provided me with valuable technical and professional growth. I gained practical experience in automation, CI/CD, and system resilience, while also learning how to collaborate effectively within a large organization. Moving forward, I am excited to apply these skills in future co-op placements and academic projects.",
+        "acknowledgments": "I would like to thank my supervisor and colleagues at CIBC for their guidance and support throughout this term. Their mentorship and feedback greatly enhanced my learning experience."
       },
       {
         "company":"Bio-imaging Research Solutions Inc.",
@@ -90,14 +91,6 @@
         "level":"70%"
       }
     ]
-  },
-  "CIBC": {
-    "introduction": "During Summer 2025, I worked as a Software Engineer Co-op at CIBC in Toronto. My role involved collaborating with internal teams to drive incident resolution, ensure compliance, and optimize operational processes. This website reflects my work term experience, the skills I developed, and the lessons I will carry forward into future co-op terms.",
-    "employer": "CIBC (Canadian Imperial Bank of Commerce) is one of Canada’s Big Five banks, headquartered in Toronto with over 45,000 employees worldwide. It offers a wide range of financial services including retail banking, business banking, wealth management, and capital markets. I worked within the Technology and Operations division, contributing to software engineering initiatives that directly support CIBC’s digital banking infrastructure.",
-    "goals": "My goals for this work term included: (1) Developing stronger skills in automated testing and CI/CD integration, (2) Gaining experience with large-scale system design and infrastructure, (3) Improving communication and collaboration skills in a professional environment. I successfully contributed automated Python test scripts and participated in system/network design discussions. While I met most of my goals, I would like to deepen my experience with containerization and cloud technologies in future terms.",
-    "job": "As a Software Engineer Co-op, I worked on building and maintaining automated testing frameworks using Python (pytest/unittest), integrated them into Jenkins pipelines, and contributed to discussions around infrastructure security and resilience. I also assisted with incident resolution and process optimization, which gave me exposure to both technical problem-solving and cross-team communication.",
-    "conclusion": "Overall, this work term at CIBC provided me with valuable technical and professional growth. I gained practical experience in automation, CI/CD, and system resilience, while also learning how to collaborate effectively within a large organization. Moving forward, I am excited to apply these skills in future co-op placements and academic projects.",
-    "acknowledgments": "I would like to thank my supervisor and colleagues at CIBC for their guidance and support throughout this term. Their mentorship and feedback greatly enhanced my learning experience."
   },
   "portfolio":{
     "projects": [
