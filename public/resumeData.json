@@ -16,7 +16,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"PMResumeF2026 Alt.pdf",
+    "resumedownload":"PMResumeS2026.pdf",
     "social":[
       {
         "name":"facebook",
@@ -73,8 +73,8 @@
         "company": "CIBC",
         "title": "Software Engineer Co-op",
         "years": "May 2025 - August 2025",
-        "description": "Developed and maintained functional test cases for middleware and infrastructure tools, improving qualityassurance coverage and strengthening critical thinking by identifying edge cases and potential failures.",
-        "description2": "Collaborated with cross-functional teams by participating in peer reviews, team stand-ups, and incident documentation, enhancing communication skills and contributing ideas to improve automation practices and internal workflows."
+        "description": "Developed and maintained automated Python test scripts using pytest and unittest to validate core application functionality, ensuring consistent quality and expanded test coverage.",
+        "description2": "Implemented parallel execution with concurrent.futures and integrated the tests into a Jenkins CI/CD pipeline, reducing execution time by 35%, accelerating feedback cycles, and improving deployment confidence."
       },
       {
         "company":"Bio-imaging Research Solutions Inc.",
