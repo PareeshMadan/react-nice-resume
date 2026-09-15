@@ -53,16 +53,16 @@
         "degree":"Bachelor of Computer Science, Business Data Analytics Minor (Co-op)",
         "graduated":"Class of 2028",
         "description":"Relevant Courses: OOP, Data Structures & Algorithms, Software Development, Operating Systems, Networks",
-        "description2": "90% Cumulative GPA, Academic Scholarship."
+        "description2": "89% Cumulative GPA, Academic Scholarship."
       }
     ],
     "work":[
       {
         "company": "MANTECH INC.",
         "title": "Software Developer Co-op",
-        "years": "January 2026 - Present",
-        "description": "Built a type-safe User-Defined Variable system in C#/.NET & WPF, driving conditional script logic. Shipped a run scheduler and live script-monitor panel, dropping operator setup per run from 5 min to under 3",
-        "description2": "Integrated 4 hardware sensor families (PeCOD, conductivity, fluorescence, pH) via Entity Framework & WPF. Implemented runtime theme switching, replacing 300+ hardcoded colors with a centralized styling system"      },
+        "years": "January 2026 - August 2026",
+        "description": "MANTECH develops automated laboratory water quality and analysis systems. Its hardware and software support testing workflows for soil, food, and environmental analysis. Working at MANTECH helped me see how software engineering connects directly to scientific/industrial applications, as well as the link between hardware and software. The software I contributed to supported real users working with real instruments, which made reliability, usability, and maintainability very important. During my second Software Developer Co-op term at MANTECH, I continued working on Windows desktop software. Since this was my second semester with the company, I built on the foundation I learned during my first term and took on more complex tasks with more independence. My work involved C#, .NET, WPF, and contributing code through the team’s review process.",
+        "description2": "One of my main goals for this work term was to improve my ability to design maintainable software. During the second half of my co-op, I became much more intentional about planning a feature’s structure before writing code. Additionally, I focused more on applying software architecture principles such as dependency injection. This goal helped me because I started considering the long term impact of my design decisions instead of focusing only on solving the immediate task. Another goal was to expand my proficiency in C#, .NET, WPF, and database interactions. I became much more comfortable working across different areas of the application, including UI changes, backend logic, debugging, and data-related features. I also gained a deeper understanding of how a desktop application connects user workflows and hardware functionality. Applying these concepts in a real production environment taught me a lot about how to work through unfamiliar problems. My third learning goal was to continue improving my written communication. I did this by writing clearer pull request descriptions, progress updates, documentation, and explaining technical decisions to my team. By focusing on explaining what I changed, why, and how it fit into the system, I made my work easier for others to review. I also became better at asking specific questions when I needed clarification, which helped me solve problems more easily. Overall, this second work term at MANTECH helped me grow from learning the codebase to contributing more independently. I strengthened my technical/communication skills while also improving my ability to think about architecture. Compared to my first term, I became more confident approaching unfamiliar problems and tools. This experience gave me a better understanding of software development and prepared me for future roles."      },
       {
         "company": "Arts4PD - University of Guelph",
         "title": "Undergraduate Research Assistant",
